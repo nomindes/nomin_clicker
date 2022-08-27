@@ -1,0 +1,3 @@
+# nomin_clicker
+5cpsから24cpsまで調節可能なAutoClickerです。
+Batchをexe変換して作っているため、動作が軽く低スペックでも簡単に動きます。
